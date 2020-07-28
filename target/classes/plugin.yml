@@ -1,6 +1,0 @@
-name: ClickSort
-main: org.trentech.clicksort.Main
-api-version: 1.13
-authors: [TrenTech]
-description: Sort Inventories
-version: '1.0.0-SNAPSHOT'
