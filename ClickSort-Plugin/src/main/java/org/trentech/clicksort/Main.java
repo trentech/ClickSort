@@ -59,7 +59,7 @@ public class Main extends JavaPlugin implements Listener {
         if(!(event.getWhoClicked() instanceof Player)) {
             return;
         }
-        getLogger().info("CLICK");
+
         if(event.getClick() != ClickType.MIDDLE) {
             return;
         }
